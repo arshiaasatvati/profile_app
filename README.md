@@ -1,6 +1,6 @@
 # prof_project
 
-A new Flutter project.
+In this flutter project i tried to create multi language app using localization in flutter and i did it with 2 dark and light theme that can change by user in the app
 
 ## Getting Started
 
